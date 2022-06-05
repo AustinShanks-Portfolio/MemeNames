@@ -1,5 +1,5 @@
 # MemeNames 
-Written by _PRIVATE_.
+Written by _Austin Shanks_.
 
 Renames Items in-game through Addon Functionality to allow Meme-y Names to be displayed instead of regular items names.
 Inspired by nicknaming the Hymnal of the Path to Book of Blasting, and Phial to Granny Plague's Bathwater.
@@ -25,7 +25,7 @@ Planned Features (Maybe, and if I have time.):
 
 FAQ:
 * Does this break TOS?
-  * No. This does not modify any files, and it strictly limited to Clients who have this AddOn installed and Enabled. Item Links do not change for other players without this addon. If Blizzard does not like the functionality they're free to break the methods used like previous brokenn addons.
+  * No. This does not modify any files, and it strictly limited to Clients who have this AddOn installed and Enabled. Item Links do not change for other players without this addon. If Blizzard does not like the functionality they're free to break the methods used like previous broken addons.
 	
 * Random isn't so Random?
   * Mousing Over Tooltips are constantly firing events to pick up if any Modifier Keys are Held Down. This will cause the Tooltip to jitter with random names. To Prevent this each Random Item is set to one of the Random Names upon seeing the item for the first time. Either Relog, ReloadUI, or type /mn -random, to reroll item names.
